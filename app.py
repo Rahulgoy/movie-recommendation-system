@@ -12,7 +12,7 @@ from tmdbv3api import Movie
 
 data = pd.read_csv("movie_data.csv")
 st.title("Movie Recommendation System")
-selected_movie_name = st.selectbox("Enter the movie:",data["movie_title"].values)
+selected_movie_name = st.selectbox("Enter the movie:(Release till 2016)",data["movie_title"].values)
 
 
 def create_sim():
@@ -73,6 +73,6 @@ if st.button("Recommend"):
 
     for i in range(len(columns)):
         with columns[i]:
-            st.text(recommendations[i])
+            st.text(recommendations[i].upper())
             st.image(posters[i])
     
