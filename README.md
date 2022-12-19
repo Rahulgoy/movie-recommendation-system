@@ -2,7 +2,7 @@
 
 
 ## **1. Methodology**
-<img src="https://labelyourdata.com/img/article-illustrations/neural_network_model_light.png" width="80%" height="80%">
+<img src="https://labelyourdata.com/img/article-illustrations/neural_network_model_light.png" width="60%" height="60%">
 
 
 ## **2. Description**
@@ -11,11 +11,11 @@ Based on similarity measure.
 
 
 ## **3. Input / Output**
-Input:
-<img src="https://github.com/Rahulgoy/movie-recommendation-system/blob/master/Screenshot%20(206).png" width="40%" height="40%">
+Input /n:
+<img src="https://github.com/Rahulgoy/movie-recommendation-system/blob/master/Screenshot%20(206).png" width="60%" height="60%">
 
-Output:
-<img src="https://github.com/Rahulgoy/movie-recommendation-system/blob/master/Screenshot%20(207).png" width="40%" height="40%">
+Output /n:
+<img src="https://github.com/Rahulgoy/movie-recommendation-system/blob/master/Screenshot%20(207).png" width="60%" height="60%">
 
 ## **4. Live link**
 Link: https://share.streamlit.io/rahulgoy/movie-recommendation-systtem/app.py
