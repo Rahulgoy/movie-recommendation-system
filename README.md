@@ -11,10 +11,10 @@ Based on similarity measure.
 
 
 ## **3. Input / Output**
-Input /n:
+Input:<br/>
 <img src="https://github.com/Rahulgoy/movie-recommendation-system/blob/master/Screenshot%20(206).png" width="60%" height="60%">
 
-Output /n:
+Output:<br/>
 <img src="https://github.com/Rahulgoy/movie-recommendation-system/blob/master/Screenshot%20(207).png" width="60%" height="60%">
 
 ## **4. Live link**
